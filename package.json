@@ -1,0 +1,19 @@
+{
+  "name": "project_01_simple_calculator_using_inquirer",
+  "version": "1.0.0",
+  "description": "My first globally accessible Calculator using Inquirer.",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdul Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
