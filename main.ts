@@ -1,5 +1,8 @@
 #! /usr/bin/env node
 
+// #Project Statement
+//### Develop a simple command line calculator using TypeScript, Node.js and Inquirer.
+
 import inquirer from "inquirer";
 
 function addition(num1: number, num2: number) {
